@@ -13,11 +13,16 @@ Um aplicativo feito em React Native que cadastra um usuário do github e chama u
 
 ## Como eu a utilizo?
 
-Precisa ter instalado o React-Native: https://reactnative.dev/
+Precisa ter instalado o ***React Native***: https://reactnative.dev/
+
+Após a instalação você pode usar os seguintes comandos:
 
 - ***Utilize yarn react-native run-android*** na pasta do projeto no cmd para inicia-lo
 - ***Utilize yarn*** para baixar as dependencias
 - ***yarn react-native start*** para carregar o metro bundler
+
+## Dependencias:
+
 
 ![Image](https://i.imgur.com/K0EF5IW.png)
 ![Image](https://i.imgur.com/b5EanHm.png)
