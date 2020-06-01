@@ -38,7 +38,7 @@ Use ***yarn react-native start*** of the wire to load the metro bundler;
 
 ## O que é a aplicação? 
 
-É mm aplicativo feito no bootcamp GoStack da Rocketseat em React Native que cadastra um usuário do github e chama uma API para mostrar os repositórios favoritos do usuário em formato de lista, e quando o repositório favorito e clicado, ele abre uma webview com a pagina deste repositorio no github.
+É um aplicativo feito no bootcamp GoStack da Rocketseat em React Native que cadastra um usuário do github e chama uma API para mostrar os repositórios favoritos do usuário em formato de lista, e quando o repositório favorito e clicado, ele abre uma webview com a pagina deste repositorio no github.
 
 ## Como eu a utilizo?
 
