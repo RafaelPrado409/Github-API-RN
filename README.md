@@ -32,7 +32,7 @@ Use ***yarn react-native start*** of the wire to load the metro bundler;
 
 ***Some dependences were not mentioned, to make part of the relevant***
 
-***To feedback: santiagorafael409@gmail.com***
+***To feedbacks: santiagorafael409@gmail.com***
 
 # Português
 
@@ -66,4 +66,4 @@ Após a instalação você pode usar os seguintes comandos:
 
 ***Algumas dependências não foram mencionadas, por fazerem parte das relevantes***
 
-***Para feedback: santiagorafael409@gmail.com***
+***Para feedbacks: santiagorafael409@gmail.com***
