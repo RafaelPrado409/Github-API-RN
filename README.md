@@ -3,11 +3,34 @@
 ![Image](https://i.imgur.com/qHOLBHP.png)
 
 # English
-Application made with React Native that registers a github user and calls the API to show the user's favorite repositories in list and when you click on the favorite repository, it opens a webview with the repository page on github.
 
-- ***Use yarn react-native run-android*** the aplication folder at cmd 
-- ***Use yarn*** to download dependences 
-- ***yarn react-native start*** to load metro bundler
+## What is this application?
+It is an application made in the GoStack bootcamp of Rocketseat in React Native that registers a github user and calls an API to show the user's favorite repositories in list format, and when the favorite repository is clicked, it opens a web view with a page of this repository on github.
+
+## How do I use it?
+Must have installed:
+
+- ***React Native***: https://reactnative.dev/
+- Android users, need ***Android Studio***: https://developer.android.com/studio
+- ***Reactotron*** for log responses (optional): https://github.com/infinitered/reactotron
+
+After installation, you can use the following commands:
+
+Use ***yarn react-native run-android*** in the project folder in cmd to start it;
+Use ***yarn*** to download as dependencies;
+Use ***yarn react-native start*** of the wire to load the metro bundler;
+
+## Relevant dependencies for the project:
+- ***Axios*** for API calls: https://github.com/axios/axios
+- ***Eslint*** for standardization and code corrections: https://eslint.org/;
+- ***React*** to the development and use of components: https://reactjs.org/;
+- ***React Navigation*** to a navigation application: https://reactnavigation.org/;
+- ***React Native*** to use mobile tools to development: https://reactnative.dev/;
+- ***React Native Webview*** for viewing the website in mobile format: https://github.com/react-native-community/react-native-webview;
+- ***React Native Vector Icons*** to use icons in svg format: https://github.com/oblador/react-native-vector-icons;
+- ***Styled Components*** for developing CSS using JavaScript: https://styled-components.com/;
+
+Some facilities were not mentioned, as they are part of the relevant
 
 # Português
 
