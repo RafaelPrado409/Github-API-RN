@@ -30,7 +30,9 @@ Use ***yarn react-native start*** of the wire to load the metro bundler;
 - ***React Native Vector Icons*** to use icons in svg format: https://github.com/oblador/react-native-vector-icons;
 - ***Styled Components*** for developing CSS using JavaScript: https://styled-components.com/;
 
-Some dependences were not mentioned, to make part of the relevant
+***Some dependences were not mentioned, to make part of the relevant***
+
+***To feedback: santiagorafael409@gmail.com***
 
 # Português
 
@@ -64,3 +66,4 @@ Após a instalação você pode usar os seguintes comandos:
 
 ***Algumas dependências não foram mencionadas, por fazerem parte das relevantes***
 
+***Para feedback: santiagorafael409@gmail.com***
