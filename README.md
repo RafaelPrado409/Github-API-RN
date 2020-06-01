@@ -42,17 +42,40 @@ Use ***yarn react-native start*** of the wire to load the metro bundler;
 
 ## Como eu a utilizo?
 
-Precisa ter instalado: 
+Após a instalação você pode usar os seguintes comandos no seu terminal dentro da pasta do proejeto ou no VSCode:
 - ***React Native***: https://reactnative.dev/
 - Usuarios Android, necessita do ***Android Studio***: https://developer.android.com/studio
 - ***Reactotron*** para visualização de logs (Opcional): https://github.com/infinitered/reactotron
 
 
 Após a instalação você pode usar os seguintes comandos:
+### Yarn
 
-- Utilize ***yarn react-native run-android*** na pasta do projeto no cmd para inicia-lo
-- Utilize ***yarn*** para baixar as dependências
-- Utilize ***yarn react-native start*** para carregar o metro bundler
+ ``` 
+yarn 
+``` 
+para instalar as dependencias
+
+ ``` 
+ yarn react-native run android 
+ ``` 
+ para iniciar a aplicacao
+ 
+ ```
+ yarn react-native start
+ ```
+ para iniciar ou carregar a aplicacao aberta
+ 
+### NPM
+
+```
+npm install
+``` 
+para instalar as dependencias
+```
+npm run start
+``` 
+para iniciar a aplicacao apos a instalacao das dependencias
 
 ## Dependências relevantes para o projeto:
 - ***Axios*** para chamadas de API: https://github.com/axios/axios
