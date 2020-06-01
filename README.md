@@ -54,7 +54,7 @@ Após a instalação você pode usar os seguintes comandos:
 - Utilize ***yarn*** para baixar as dependências
 - Utilize ***yarn react-native start*** para carregar o metro bundler
 
-## Dependencias Relevantes para o projeto:
+## Dependências relevantes para o projeto:
 - ***Axios*** para chamadas de API: https://github.com/axios/axios
 - ***Eslint*** para padronizações e correções de codigo: https://eslint.org/;
 - ***React*** para o desenvolvimento e uso de componentes: https://reactjs.org/;
