@@ -26,18 +26,18 @@ Precisa ter instalado:
 Após a instalação você pode usar os seguintes comandos:
 
 - Utilize ***yarn react-native run-android*** na pasta do projeto no cmd para inicia-lo
-- Utilize ***yarn*** para baixar as dependencias
+- Utilize ***yarn*** para baixar as dependências
 - Utilize ***yarn react-native start*** para carregar o metro bundler
 
 ## Dependencias Relevantes para o projeto:
 - ***Axios*** para chamadas de API: https://github.com/axios/axios
-- ***Eslint*** para padronizacoes e correcoes de codigo: https://eslint.org/;
+- ***Eslint*** para padronizações e correções de codigo: https://eslint.org/;
 - ***React*** para o desenvolvimento e uso de componentes: https://reactjs.org/;
-- ***React Navigation*** para a navegacao do app: https://reactnavigation.org/;
+- ***React Navigation*** para a navegação do app: https://reactnavigation.org/;
 - ***React Native*** para desenvolvimento em mobile: https://reactnative.dev/;
-- ***React Native Webview*** para vizualicao do site em formato mobile: https://github.com/react-native-community/react-native-webview;
+- ***React Native Webview*** para ter uma visualização do site, e em formato mobile: https://github.com/react-native-community/react-native-webview;
 - ***React Native Vector Icons*** para utilizar icones em formato svg: https://github.com/oblador/react-native-vector-icons;
 - ***Styled Components*** para desenvolver o CSS usando JavaScript: https://styled-components.com/;
 
-***Algumas dependencias nao foram mencionadas, por fazerem parte das relevantes***
+***Algumas dependências não foram mencionadas, por fazerem parte das relevantes***
 
