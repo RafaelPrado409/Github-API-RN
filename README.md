@@ -116,7 +116,7 @@ para instalar as dependências
 - [React Navigation](https://reactnavigation.org/) para a navegação do app;
 - [React Native](https://reactnative.dev/) para desenvolvimento em mobile;
 - [React Native Webview](https://github.com/react-native-community/react-native-webview) para ter uma visualização do site, e em formato mobile;
-- [React Native Vector I](conshttps://github.com/oblador/react-native-vector-icons) para utilizar icones em formato svg;
+- [React Native Vector Icons](https://github.com/oblador/react-native-vector-icons) para utilizar icones em formato svg;
 - [Styled Components](https://styled-components.com/) para desenvolver o CSS usando JavaScript;
 
 ***Algumas dependências não foram mencionadas, por fazer parte das dependências principais***
