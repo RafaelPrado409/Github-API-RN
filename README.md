@@ -14,25 +14,57 @@ Must have installed:
 - Android users, need ***Android Studio***: https://developer.android.com/studio
 - ***Reactotron*** for log responses (optional): https://github.com/infinitered/reactotron
 
-After installation, you can use the following commands:
+- Android users, need [Android Studio](https://developer.android.com/studio)
+- [Reactotron](https://github.com/infinitered/reactotron) to logs view (Opcional);
 
-Use ***yarn react-native run-android*** in the project folder in cmd to start it;
-Use ***yarn*** to download as dependencies;
-Use ***yarn react-native start*** of the wire to load the metro bundler;
+After installation, you can use the following commands:
+### Yarn
+ ``` 
+yarn 
+``` 
+to install dependences
+
+ ``` 
+ yarn react-native run android 
+ ``` 
+start the app
+ 
+ ```
+ yarn react-native start
+ ```
+to start or load the app
+
+### NPM
+ ``` 
+npm install 
+``` 
+para instalar as dependencias
+
+ ``` 
+ npx react-native run android 
+ ``` 
+ para iniciar a aplicacao
+ 
+ ```
+ npx react-native start
+ ```
+ para iniciar ou carregar a aplicacao aberta
+
 
 ## Relevant dependencies for the project:
-- ***Axios*** for API calls: https://github.com/axios/axios
-- ***Eslint*** for standardization and code corrections: https://eslint.org/;
-- ***React*** to the development and use of components: https://reactjs.org/;
-- ***React Navigation*** to a navigation application: https://reactnavigation.org/;
-- ***React Native*** to use mobile tools to development: https://reactnative.dev/;
-- ***React Native Webview*** for viewing the website in mobile format: https://github.com/react-native-community/react-native-webview;
-- ***React Native Vector Icons*** to use icons in svg format: https://github.com/oblador/react-native-vector-icons;
-- ***Styled Components*** for developing CSS using JavaScript: https://styled-components.com/;
+- [Axios](https://github.com/axios/axios) for API calls;
+- [Eslint](https://eslint.org/) for standardization and code corrections;
+- [React](https://reactjs.org/) to the development and use of components;
+- [React Navigation](https://reactnavigation.org/) to a navigation application;
+- [React Native](https://reactnative.dev/) to use mobile tools to development;
+- [React Native Webview](https://github.com/react-native-community/react-native-webview) for viewing the website in mobile format;
+- [React Native Vector I](conshttps://github.com/oblador/react-native-vector-icons) to use icons in svg format;
+- [Styled Components](https://styled-components.com/) for developing CSS using JavaScript;
 
 ***Some dependences were not mentioned, to make part of the relevant***
 
 ***To feedbacks: santiagorafael409@gmail.com***
+
 
 # Português
 
@@ -42,51 +74,55 @@ Use ***yarn react-native start*** of the wire to load the metro bundler;
 
 ## Como eu a utilizo?
 
-Após a instalação você pode usar os seguintes comandos no seu terminal dentro da pasta do proejeto ou no VSCode:
-- ***React Native***: https://reactnative.dev/
-- Usuarios Android, necessita do ***Android Studio***: https://developer.android.com/studio
-- ***Reactotron*** para visualização de logs (Opcional): https://github.com/infinitered/reactotron
+Precisa ter instalado:
+- Usuarios Android, necessita do [Android Studio](https://developer.android.com/studio)
+- [Reactotron](https://github.com/infinitered/reactotron) para visualização de logs (Opcional);
 
 
-Após a instalação você pode usar os seguintes comandos:
+Após a instalação você pode usar os seguintes comandos no seu terminal dentro da pasta do projeto ou no VSCode:
 ### Yarn
 
  ``` 
 yarn 
 ``` 
-para instalar as dependencias
+para instalar as dependências
 
  ``` 
  yarn react-native run android 
  ``` 
- para iniciar a aplicacao
+ para iniciar a aplicação
  
  ```
  yarn react-native start
  ```
- para iniciar ou carregar a aplicacao aberta
+ para iniciar ou carregar a aplicação aberta
  
 ### NPM
-
-```
-npm install
+ ``` 
+npm install 
 ``` 
-para instalar as dependencias
-```
-npm run start
-``` 
-para iniciar a aplicacao apos a instalacao das dependencias
+para instalar as dependências
 
-## Dependências relevantes para o projeto:
-- ***Axios*** para chamadas de API: https://github.com/axios/axios
-- ***Eslint*** para padronizações e correções de codigo: https://eslint.org/;
-- ***React*** para o desenvolvimento e uso de componentes: https://reactjs.org/;
-- ***React Navigation*** para a navegação do app: https://reactnavigation.org/;
-- ***React Native*** para desenvolvimento em mobile: https://reactnative.dev/;
-- ***React Native Webview*** para ter uma visualização do site, e em formato mobile: https://github.com/react-native-community/react-native-webview;
-- ***React Native Vector Icons*** para utilizar icones em formato svg: https://github.com/oblador/react-native-vector-icons;
-- ***Styled Components*** para desenvolver o CSS usando JavaScript: https://styled-components.com/;
+ ``` 
+ npx react-native run android 
+ ``` 
+ para iniciar a aplicação
+ 
+ ```
+ npx react-native start
+ ```
+ para iniciar ou carregar a aplicação aberta
 
-***Algumas dependências não foram mencionadas, por fazerem parte das relevantes***
+## As principais dependências para o projeto:
+- [Axios](https://github.com/axios/axios) para chamadas de API;
+- [Eslint](https://eslint.org/) para padronizações e correções de codigo;
+- [React](https://reactjs.org/) para o desenvolvimento e uso de componentes;
+- [React Navigation](https://reactnavigation.org/) para a navegação do app;
+- [React Native](https://reactnative.dev/) para desenvolvimento em mobile;
+- [React Native Webview](https://github.com/react-native-community/react-native-webview) para ter uma visualização do site, e em formato mobile;
+- [React Native Vector I](conshttps://github.com/oblador/react-native-vector-icons) para utilizar icones em formato svg;
+- [Styled Components](https://styled-components.com/) para desenvolver o CSS usando JavaScript;
+
+***Algumas dependências não foram mencionadas, por fazer parte das dependências principais***
 
 ***Para feedbacks: santiagorafael409@gmail.com***
