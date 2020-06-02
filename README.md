@@ -10,10 +10,6 @@ It is an application made in the GoStack bootcamp of Rocketseat in React Native 
 ## How do I use it?
 Must have installed:
 
-- ***React Native***: https://reactnative.dev/
-- Android users, need ***Android Studio***: https://developer.android.com/studio
-- ***Reactotron*** for log responses (optional): https://github.com/infinitered/reactotron
-
 - Android users, need [Android Studio](https://developer.android.com/studio)
 - [Reactotron](https://github.com/infinitered/reactotron) to logs view (Opcional);
 
