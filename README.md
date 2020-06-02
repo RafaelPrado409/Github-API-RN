@@ -10,7 +10,7 @@ It is an application made in the GoStack bootcamp of Rocketseat in React Native 
 ## How do I use it?
 Must have installed:
 
-- Android users, need [Android Studio](https://developer.android.com/studio)
+- Android users, needs [Android Studio](https://developer.android.com/studio)
 - [Reactotron](https://github.com/infinitered/reactotron) to logs view (Opcional);
 
 After installation, you can use the following commands:
@@ -71,7 +71,7 @@ para instalar as dependencias
 ## Como eu a utilizo?
 
 Precisa ter instalado:
-- Usuarios Android, necessita do [Android Studio](https://developer.android.com/studio)
+- Usuarios Android, necessitam do [Android Studio](https://developer.android.com/studio)
 - [Reactotron](https://github.com/infinitered/reactotron) para visualização de logs (Opcional);
 
 
