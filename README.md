@@ -47,7 +47,7 @@ para instalar as dependencias
  para iniciar ou carregar a aplicacao aberta
 
 
-## Relevant dependencies for the project:
+## Relevant dependences for the project:
 - [Axios](https://github.com/axios/axios) for API calls;
 - [Eslint](https://eslint.org/) for standardization and code corrections;
 - [React](https://reactjs.org/) to the development and use of components;
