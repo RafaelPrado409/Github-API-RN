@@ -54,7 +54,7 @@ para instalar as dependencias
 - [React Navigation](https://reactnavigation.org/) to a navigation application;
 - [React Native](https://reactnative.dev/) to use mobile tools to development;
 - [React Native Webview](https://github.com/react-native-community/react-native-webview) for viewing the website in mobile format;
-- [React Native Vector I](conshttps://github.com/oblador/react-native-vector-icons) to use icons in svg format;
+- [React Native Vector Icons](https://github.com/oblador/react-native-vector-icons) to use icons in svg format;
 - [Styled Components](https://styled-components.com/) for developing CSS using JavaScript;
 
 ***Some dependences were not mentioned, to make part of the relevant***
