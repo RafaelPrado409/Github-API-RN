@@ -1,3 +1,7 @@
+![](https://img.shields.io/badge/react--native-0.62-blue)
+![](https://img.shields.io/badge/react-16.13.1-blue)
+![](https://img.shields.io/badge/-Rocketseat-blue)
+
 ![Image](https://i.imgur.com/K0EF5IW.png)
 ![Image](https://i.imgur.com/b5EanHm.png)
 ![Image](https://i.imgur.com/qHOLBHP.png)
