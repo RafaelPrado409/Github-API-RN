@@ -1,6 +1,10 @@
-![](https://img.shields.io/badge/react--native-0.62-blue)
-![](https://img.shields.io/badge/react-16.13.1-blue)
-![](https://img.shields.io/badge/-Rocketseat-blue)
+# **Github-API**
+
+![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![StyledComponents](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 ![Image](https://i.imgur.com/K0EF5IW.png)
 ![Image](https://i.imgur.com/b5EanHm.png)
@@ -15,7 +19,6 @@ It is an application made in the GoStack bootcamp of Rocketseat in React Native 
 Must have installed:
 
 - Android users, needs [Android Studio](https://developer.android.com/studio)
-- [Reactotron](https://github.com/infinitered/reactotron) to logs view (Opcional);
 
 After installation, you can use the following commands:
 ### Yarn
@@ -63,7 +66,12 @@ para instalar as dependencias
 
 ***Some dependences were not mentioned, to make part of the relevant***
 
-***To feedbacks: santiagorafael409@gmail.com***
+
+### Feedbacks
+
+[![Linkedin: Rafael Prado](https://img.shields.io/badge/-RafaelPrado-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](https://www.linkedin.com/in/rafael-prado-8a40b6132/)
+[![Gmail Badge](https://img.shields.io/badge/-santiagorafael409@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:santiagorafael409@gmail.com)
+[![Rafael Prado]( https://img.shields.io/github/followers/RafaelPrado409?label=follow&style=social)](https://github.com/RafaelPrado409)
 
 
 # Português
@@ -76,8 +84,6 @@ para instalar as dependencias
 
 Precisa ter instalado:
 - Usuarios Android, necessitam do [Android Studio](https://developer.android.com/studio)
-- [Reactotron](https://github.com/infinitered/reactotron) para visualização de logs (Opcional);
-
 
 Após a instalação você pode usar os seguintes comandos no seu terminal dentro da pasta do projeto ou no VSCode:
 ### Yarn
@@ -125,4 +131,10 @@ para instalar as dependências
 
 ***Algumas dependências não foram mencionadas, por fazer parte das dependências principais***
 
-***Para feedbacks: santiagorafael409@gmail.com***
+### Feedbacks
+
+[![Linkedin: Rafael Prado](https://img.shields.io/badge/-RafaelPrado-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](https://www.linkedin.com/in/rafael-prado-8a40b6132/)
+[![Gmail Badge](https://img.shields.io/badge/-santiagorafael409@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:santiagorafael409@gmail.com)
+[![Rafael Prado]( https://img.shields.io/github/followers/RafaelPrado409?label=follow&style=social)](https://github.com/RafaelPrado409)
+
+[⬆ Back to top](#Github-API)<br>
